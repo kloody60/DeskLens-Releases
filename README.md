@@ -9,7 +9,7 @@
 ## Features
 - A real camera named **DeskLens**. No OBS needed.
 - **Auto share:** turn on your camera in Discord and your desktop shows up right away.
-- Any screen or window, up to **4K at 60 fps**.
+- Any screen or window, fully automatic with no buttons to press.
 - No admin rights needed. Updates install automatically.
 - 15 languages, including full Arabic (right-to-left) support.
 
