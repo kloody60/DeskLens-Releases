@@ -13,6 +13,7 @@
 - Full HD, 2K or 4K at 30 or 60 fps.
 - Smooth and low-latency: a steady frame rhythm and about 40 ms of delay at Full HD.
 - Flip the picture left↔right or rotate it 90°, 180° or 270°.
+- Add your real webcam on top of the screen (rounded box or circle), drag it anywhere and resize it.
 - No admin rights needed. Updates install automatically.
 - 15 languages, including full Arabic (right-to-left) support.
 
@@ -35,6 +36,7 @@
 - جودة Full HD أو 2K أو 4K، على 30 أو 60 إطار.
 - سلس وبدون تأخير يُذكر، حوالي 40 جزء من الثانية على Full HD.
 - قلب الصورة يمين↔يسار، وتدويرها 90° أو 180° أو 270°.
+- إضافة كاميرتك الشخصية فوق الشاشة (مربع أو دائرة)، تحركها وتكبّرها مثل ما تبي.
 - ما يحتاج صلاحيات مدير، ويتحدّث لحاله، ويدعم 15 لغة منها العربي.
 
 **طريقة الاستخدام:**
