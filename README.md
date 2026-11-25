@@ -10,7 +10,9 @@
 - A real camera named **DeskLens**. No OBS needed.
 - **Auto share:** turn on your camera in Discord and your desktop shows up right away.
 - Any screen or window, fully automatic with no buttons to press.
-- HD, Full HD, 2K or 4K at 30 or 60 fps.
+- Full HD, 2K or 4K at 30 or 60 fps.
+- Smooth and low-latency: a steady frame rhythm and about 40 ms of delay at Full HD.
+- Flip the picture left↔right or rotate it 90°, 180° or 270°.
 - No admin rights needed. Updates install automatically.
 - 15 languages, including full Arabic (right-to-left) support.
 
@@ -27,6 +29,15 @@
 **DeskLens** يحوّل سطح مكتبك إلى كاميرا باسم **DeskLens** تقدر تستخدمها في ديسكورد وأي برنامج فيه كاميرا ويب.
 
 **[⬇ تحميل آخر إصدار](https://github.com/kloody60/DeskLens-Releases/releases/latest)**
+
+- كاميرا حقيقية باسم **DeskLens**، بدون OBS.
+- تلقائي بالكامل: تفتح البرنامج والكاميرا تعرض شاشتك على طول.
+- جودة Full HD أو 2K أو 4K، على 30 أو 60 إطار.
+- سلس وبدون تأخير يُذكر، حوالي 40 جزء من الثانية على Full HD.
+- قلب الصورة يمين↔يسار، وتدويرها 90° أو 180° أو 270°.
+- ما يحتاج صلاحيات مدير، ويتحدّث لحاله، ويدعم 15 لغة منها العربي.
+
+**طريقة الاستخدام:**
 
 1. ثبّت البرنامج وافتحه، واختر الشاشة.
 2. في ديسكورد: الإعدادات ← الصوت والفيديو ← الكاميرا ← اختر **DeskLens**.
